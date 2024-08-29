@@ -1,12 +1,9 @@
-Demo script.
+Demo script:
 
-This is the first line.
+This is the first line!
 
-
-This is the second line.
-
+This is the second line!
 
 And the third! 
 
-
-Final fourth line!!! This is it.
+Final fourth line! This is it!
